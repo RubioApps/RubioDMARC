@@ -3,11 +3,11 @@ Web application that allows to check the activity of a Mail Server (MTS)  that r
 
 You will find more information in [OpenDMARC](https://github.com/trusteddomainproject/OpenDMARC/blob/master/opendmarc/README)
 
-## Prerequirements
-- Apache Web Server or Nginx Web server
+## Requirements
 - Mail Server (a compatible MTS like Postfix)
-- OpenDMARC
-- Database Server (mariaDB or MySQL)
+- [OpenDMARC](https://github.com/trusteddomainproject/OpenDMARC/blob/master/opendmarc/README), with the reports enabled.
+- Database Server (mariaDB or MySQL) wit
+- Apache Web Server or Nginx Web server
 
 ## OpenDMARC Database fields
 Some wording is needed to better understand how OpenDMARC stores the information into the database.
