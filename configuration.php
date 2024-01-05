@@ -42,7 +42,7 @@ class ODConfig {
 	public $password = 'your-database-password';
 	public $db = 'your-database-name';
         public $port = '3306';
-	public $theme = 'proton';
+	public $theme = 'default';
 	public $log_path = '/path/to/your/site/logs';
 	public $tmp_path = '/path/to/your/site/tmp';
         public $top_domains = 10;
