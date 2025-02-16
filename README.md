@@ -48,3 +48,11 @@ ARC evaluation (0 = pass, 2 = fail)
 - arc_policy:
 ARC local policy evaluation (evaluation -- same as ARC, ARC seal data - JSON-encoded array of governing arc seal fields: instance, domain, selector)
 
+## Snapshots
+
+![mta](https://github.com/user-attachments/assets/04c50765-c9a7-4f60-b537-1e89c17c6d52)
+![messages](https://github.com/user-attachments/assets/b8726276-9e4a-4a2f-80f8-4f7777fe9412)
+![host](https://github.com/user-attachments/assets/812ef2d5-6377-4d2c-9a08-5ae39530affb)
+![home](https://github.com/user-attachments/assets/addd1e06-cd30-41d4-8489-feae6e9d953d)
+![detail](https://github.com/user-attachments/assets/fac7752c-b7b3-499b-a329-e47092ed8263)
+
