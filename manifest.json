@@ -1,0 +1,29 @@
+{
+  "theme_color": "#000000",
+  "background_color": "#262A33",
+  "icons": [
+    {
+      "sizes": "512x512",
+      "src": "https://yourwebsite.com/templates/default/assets/favicons/icon512_rounded.png",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://yourwebsite.com/templates/default/assets/images/screenshot.png",
+      "type": "image/png",
+      "sizes": "1370x846",
+      "form_factor": "wide"
+    }
+  ],
+  "orientation": "any",
+  "display": "standalone",
+  "dir": "auto",
+  "lang": "en-US",
+  "name": "RubioDMARC",
+  "short_name": "RubioDMARC",
+  "start_url": "https://yourwebsite.com",
+  "scope": "https://yourwebsite.com",
+  "description": "DMARC Analyzer",
+  "id": "https://yourwebsite.com"
+}
